@@ -1,0 +1,13 @@
+body {
+	font-size: 25px;
+}
+.img1 {
+	max-width: 500px;
+}
+.img2 {
+	max-width: 500px;
+	float: left;
+}
+.text {
+	max-width: 70%;
+}
